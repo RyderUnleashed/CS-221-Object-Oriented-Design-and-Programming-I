@@ -12,36 +12,36 @@ Alex
 
 ## Lab1
 
-**FirstLab**
+### FirstLab ###
 
 This class simply outputs the text, "Hello World!" followed by my name. Very Simple.
 
-**Face**
+### Face ###
 
 This class outputs an ASCII tiki head of sorts. Also simple.
 
 ## Lab2
 
-**TicketBot**
+### TicketBot ###
 
 This class simulates the purchase of travel tickes. It'll ask for the user's full name, how many tickets they need, where they'd like to go, and their desired budget. It'll then summarize the information at the bottom and the program ends with the output, "Loading options...".
 
 ## Lab3
 
-**ColorMixer**
+### ColorMixer ###
 
 This class will ask the user for two RGB values as a single integer (Ex. 255,255,255) and a mixing ratio (out of 100). It'll then mix the two colors using the formula, *rv*<sub>1</sub> + (1 - *r*)*v*<sub>2</sub>, with *v*<sub>1</sub> being the user's first RGB value, *v*<sub>2</sub> being the user's second RGB value, and *r* being the mxing ratio. It'll then output the mixed color's R, G, and B values.
 
 ## Lab4
 
-**RandoFibo**
+### RandoFibo ###
 
 This class will ask the user for a minimum value and a maximum value and then proceed to randomly pick a number between, and including, those two values. With the new random number, it'll use the formula, F<sub>N</sub> = [φ<sup>N</sup> - (1 - φ<sup>N</sup>)] / √5, to calculate the random number's approximate fibonacci number. F<sub>1</sub> = 1, F<sub>2</sub> = 1, F<sub>3</sub> = 2, F<sub>4</sub> = 3, F<sub>5</sub> = 5, and so on.
 
-**RandoCharLeader**
+### RandoCharLeader ###
 
 This class will simply pick a random uppercase character (A-Z), a random lowercase character (a-z), a random special character (@#$%^&*()), and output it as a single string in the form of a cheer. Requires no user input.
 
-**AccountInfo**
+### AccountInfo ###
 
 This class asks the user for their full name and "credit card number" (Don't actually put your real CC#). It'll greet the user by their given name and give them a username consisting of their last name and the first letter of their first name. It'll then state your credit card number, masking 12 out of the 16 digits with asteriks (*), regardless of whether or not the user put dashes (-) between their CC# or not.
