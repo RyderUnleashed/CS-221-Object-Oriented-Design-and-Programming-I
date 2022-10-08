@@ -50,4 +50,4 @@ This class asks the user for their full name and "credit card number" (Don't act
 
 ### TitanTreats ###
 
-This class simulates the purchase of cupcakes based on a variety of conditions using **if** statements. It'll ask the user for how many cupcakes they want, additional frosting, sprinkles, or filling, and if they'd like it delievered. The program will then sum up the order info, and displaying the user's delivery address (if inputted) as a seperate street, city, state, and zip code.
+This class simulates the purchase of cupcakes based on a variety of conditions using **if** statements. It'll ask the user for how many cupcakes they want, additional frosting, sprinkles, or filling, and if they'd like it delievered. The program will then sum up the order info and display the user's delivery address, if inputted, separating the street, city, state, and zip code from the user's address.
