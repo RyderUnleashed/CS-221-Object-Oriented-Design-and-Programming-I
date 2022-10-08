@@ -10,7 +10,7 @@ That being said, feel free to download and test my submitted code. These were co
 
 Alex
 
-## Lab1
+## Lab1 ##
 
 ### FirstLab ###
 
@@ -20,19 +20,19 @@ This class simply outputs the text, "Hello World!" followed by my name. Very Sim
 
 This class outputs an ASCII tiki head of sorts. Also simple.
 
-## Lab2
+## Lab2 ##
 
 ### TicketBot ###
 
 This class simulates the purchase of travel tickes. It'll ask for the user's full name, how many tickets they need, where they'd like to go, and their desired budget. It'll then summarize the information at the bottom and the program ends with the output, "Loading options...".
 
-## Lab3
+## Lab3 ##
 
 ### ColorMixer ###
 
 This class will ask the user for two RGB values as a single integer (Ex. 255,255,255) and a mixing ratio (out of 100). It'll then mix the two colors using the formula, *rv*<sub>1</sub> + (1 - *r*)*v*<sub>2</sub>, with *v*<sub>1</sub> being the user's first RGB value, *v*<sub>2</sub> being the user's second RGB value, and *r* being the mxing ratio. It'll then output the mixed color's R, G, and B values.
 
-## Lab4
+## Lab4 ##
 
 ### RandoFibo ###
 
@@ -45,3 +45,9 @@ This class will simply pick a random uppercase character (A-Z), a random lowerca
 ### AccountInfo ###
 
 This class asks the user for their full name and "credit card number" (Don't actually put your real CC#). It'll greet the user by their given name and give them a username consisting of their last name and the first letter of their first name. It'll then state your credit card number, masking 12 out of the 16 digits with asteriks (*), regardless of whether or not the user put dashes (-) between their CC# or not.
+
+## Lab5 ##
+
+### TitanTreats ###
+
+This class simulates the purchase of cupcakes based on a variety of conditions using **if** statements. It'll ask the user for how many cupcakes they want, additional frosting, sprinkles, or filling, and if they'd like it delievered. The program will then sum up the order info, and displaying the user's delivery address (if inputted) as a seperate street, city, state, and zip code.
