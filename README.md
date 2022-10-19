@@ -51,3 +51,13 @@ This class asks the user for their full name and "credit card number" (Don't act
 ### TitanTreats ###
 
 This class simulates the purchase of cupcakes based on a variety of conditions using **if** statements. It'll ask the user for how many cupcakes they want, additional frosting, sprinkles, or filling, and if they'd like it delievered. The program will then sum up the order info and display the user's delivery address, if inputted, separating the street, city, state, and zip code from the user's address.
+
+## Lab 6 ##
+
+### Zodiac Sign (A & B) ###
+
+This class simply asks the user for their birth date (month & day) and figures out what their zodiac sign is based on their input. Part A uses **if** statements and part B uses **switch** statements.
+
+### Alphabetize ###
+
+This class asks the user to give three words of their choosing, arranging and displaying the words in alphabetical order. The program uses the string **compareTo()** method.
