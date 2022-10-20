@@ -67,4 +67,4 @@ This class asks the user to give three words of their choosing, arranging and di
 ### Infant Weight Evaluator ###
 
 This class determines if an infant is in a healthy age/weight range while also offering the choice between different measurements. The user can choose between:
-1 - months and kg, 2 - years and kg, 3 - months and lbs, 4 - years and lbs. It'll then apply either one of the formulas: weight(kg) >= age(months) / 3 + 2 **or**  weight(kg) <= 5 * age(months) / 12 + 5, to determine if the infant is healthy or not.
+1 - months and kg, 2 - years and kg, 3 - months and lbs, 4 - years and lbs. It'll then apply either one of the formulas: weight(kg) >= age(months) / 3 + 2 **OR**  weight(kg) <= 5 * age(months) / 12 + 5, to determine if the infant is healthy or not.
