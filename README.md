@@ -68,3 +68,13 @@ This class asks the user to give three words of their choosing, arranging and di
 
 This class determines if an infant is in a healthy age/weight range while also offering the choice between different measurements. The user can choose between:
 1 - months and kg, 2 - years and kg, 3 - months and lbs, 4 - years and lbs. It'll then apply either one of the formulas: weight(kg) >= age(months) / 3 + 2 **OR**  weight(kg) <= 5 * age(months) / 12 + 5, to determine if the infant is healthy or not.
+
+## Lab 7 ##
+
+### Regular Factor Finder ###
+
+This class prompts the user to enter a number and proceeds to output every factor of the inputted number. If a number is prime, it'll only output the number one and the user's inputted number.
+
+### Smallest Factors Finder ###
+
+This class prompts the user to enter a number and proceeds to output the smallest factors of the inputted number, such that when multiplied together, will make up the inital inputted value.
