@@ -68,12 +68,22 @@ This class asks the user to give three words of their choosing, arranging and di
 This class determines if an infant is in a healthy age/weight range while also offering the choice between different measurements. The user can choose between:
 1 - months and kg, 2 - years and kg, 3 - months and lbs, 4 - years and lbs. It'll then apply either one of the formulas: weight(kg) >= age(months) / 3 + 2 **OR**  weight(kg) <= 5 * age(months) / 12 + 5, to determine if the infant is healthy or not.
 
-## Lab 7 ##
+~~## Lab 7 ##~~
 
-### Regular Factor Finder ###
+~~### Regular Factor Finder ###~~
 
-This class prompts the user to enter a number and proceeds to output every factor of the inputted number. If a number is prime, it'll only output the number one and the user's inputted number.
+~~This class prompts the user to enter a number and proceeds to output every factor of the inputted number. If a number is prime, it'll only output the number one and the user's inputted number.~~
 
-### Smallest Factors Finder ###
+~~### Smallest Factors Finder ###~~
 
-This class prompts the user to enter a number and proceeds to output the smallest factors of the inputted number, such that when multiplied together, will make up the inital inputted value.
+~~This class prompts the user to enter a number and proceeds to output the smallest factors of the inputted number, such that when multiplied together, will make up the inital inputted value.~~
+
+## Lab 8 ##
+
+### Letter Occurences ###
+
+This class will prompt the user to enter a string and a letter to find in that string. The program will then output the amount of times the user's inputted letter occurs throughout their string.
+
+### Duplicate Letters? ###
+
+This class will prompt the user to enter a string. The program will then output whether or not their inputted string contains any duplicate letters or not.
