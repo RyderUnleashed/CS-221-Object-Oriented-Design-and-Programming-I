@@ -1,6 +1,6 @@
 # CS-221-Object-Oriented-Design-and-Programming-I
 
-These are rudimentary projects that I coded and submitted in my CS-221 class.
+These are rudimentary projects provided by Hannah Hillberg, that I coded and submitted in my CS-221 class.
 
 To prevent anyone, and myself for that matter, from violating University of Wisconsin - Oshkosh's Academic Honesty Policy,
 I do not condone or grant the reuse and resubmission of these projects under another student's name. This repository is here to serve as a portfolio. That being said, these projects are licensed under **agpl-3.0**. Follow github's licensing policy and copyright laws.
@@ -87,3 +87,9 @@ This class will prompt the user to enter a string and a letter to find in that s
 ### Duplicate Letters? ###
 
 This class will prompt the user to enter a string. The program will then output whether or not their inputted string contains any duplicate letters or not.
+
+## Project 2 ##
+
+### Grade Point Average Computer ###
+
+This class simply calculates the user's GPA by prompting the user to enter a letter grade and the amount of credits for the course. The program uses switch statements and printf to calculate and output the results for the term and cumulatively.
