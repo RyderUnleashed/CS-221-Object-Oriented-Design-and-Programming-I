@@ -88,6 +88,16 @@ This class will prompt the user to enter a string and a letter to find in that s
 
 This class will prompt the user to enter a string. The program will then output whether or not their inputted string contains any duplicate letters or not.
 
+## Lab 9 ##
+
+### Count Most-Occurring Letter ###
+
+This class will prompt the user to enter a string. It'll then find which letter occurs the most throughout the string and print it.
+
+### Halloween Candy ###
+
+This class will prompt the user to enter the amount of candy that they received and what kind of candies they got. It'll then print out the different combinations of candies they could do, avoiding duplicates unless there's explicitly multiple of that candy, i.e Candy 1: m&ms and Candy 2: m&ms.
+
 ## Project 2 ##
 
 ### Grade Point Average Computer ###
