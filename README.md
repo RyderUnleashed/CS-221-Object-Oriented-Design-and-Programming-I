@@ -103,3 +103,9 @@ This class will prompt the user to enter the amount of candy that they received 
 ### Grade Point Average Computer ###
 
 This class simply calculates the user's GPA by prompting the user to enter a letter grade and the amount of credits for the course. The program uses switch statements and printf to calculate and output the results for the term and cumulatively.
+
+## Lab 10 ##
+
+### Methods ###
+
+This class works with methods. The first method, "generateUsername", takes three hardcoded calls and generates a username from the inputted string of text. The second method, "charNTimes", takes three more hardcoded calls and prints the inputted character the specified number of times. The third and final method, "maskN", takes three more hardcoded calls and outputs a string of text masked with the specified character the specified amount of times.
